@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.3",
-    "sass": "^1.22.9"
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.1"
   },
   "keywords": [
     "parcel boilerplate",
