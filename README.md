@@ -6,6 +6,7 @@
 ```
 git clone https://github.com/asangadev/parcel-boilerplate.git parcel-boilerplate
 cd parcel-boilerplate
+rm -rf .git
 npm i
 ```
 
